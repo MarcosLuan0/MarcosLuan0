@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, atualmente estou tentando criar um projeto á cada dia, então fique à vontade para dar uma olhada
 
 <div align="center">
   <a href="https://github.com/MarcosLuan0">
